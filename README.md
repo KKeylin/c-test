@@ -17,3 +17,4 @@ I hope you appreciate my humor, but of course I would not send this to productio
 - Test -> for selectors, utils, actions
 - I would write a more powerful utility for choosing the font size, taking into account the size of the characters.
 - To optimize the rendering, I would either ask the BE to give me the keys of the rows, or generate from when receiving the data so that the rows are not rendered. In this regard, there is a bug - if you try to advise with a difference of articles per second in one line, only one will be deleted.
+- Maybe I will think about a little bit another model of FullView page - to news be in the flow, not in a row, and if you remove some of it, all another move up, to the page don't have blank space (but not a fact what it's looks better, or lighter from rendering point of view)
