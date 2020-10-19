@@ -1,0 +1,6 @@
+export const FETCH_ALL = "FETCH_ALL";
+export const FETCH_ALL_SUCCESS = "FETCH_ALL_SUCCESS";
+export const FETCH_ALL_FAILURE = "FETCH_ALL_FAILURE";
+
+export const UPDATE_ARTICLE = "UPDATE_ARTICLE";
+export const DELETE_ARTICLE = "DELETE_ARTICLE";
